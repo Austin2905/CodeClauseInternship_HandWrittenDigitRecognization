@@ -24,3 +24,6 @@ DIRECTIONS OF USE:
 4. Then type "Python main.py"
 5. then after the model is trained, type "Python GUI.py" for using it.
 6. To improve the model or change the hyperparameters to increase the accuracy, make changes in the file "Model.py"
+
+7. NOTE:
+8.  Install tensorflow gpu for training the model efficiently. to know how to install tensorflow gpu, refer the official page of tensorflow and follow their instructions under pip category with respect to your requirements.
